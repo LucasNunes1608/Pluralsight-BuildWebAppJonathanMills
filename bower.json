@@ -1,0 +1,21 @@
+{
+  "name": "webappjonathanmills",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Lucas Nunes"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/LucasNunes1608/Pluralsight-BuildWebAppJonathanMills",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
