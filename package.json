@@ -10,7 +10,6 @@
     "lint:watch": "npm run lint -- --watch",
     "security-check": "nsp check",
     "test": "echo \"Error: no test specified\" && exit 1"
-
   },
   "repository": {
     "type": "git",
@@ -33,6 +32,7 @@
     "eslint-plugin-import": "^2.2.0",
     "eslint-watch": "^3.1.0",
     "npm-run-all": "^4.0.2",
-    "nsp": "^2.6.3"
+    "nsp": "^2.6.3",
+    "webpack": "^2.4.1"
   }
 }
