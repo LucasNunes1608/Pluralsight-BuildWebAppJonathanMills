@@ -28,7 +28,7 @@ gulp.task('inject', function(){
 
 gulp.task('serve', ['inject'], function(){
   var options = {
-    script: 'buildScripts/app.js',
+    script: 'app.js',
     delayTime: 1,
     env: {
         'PORT': 3000
