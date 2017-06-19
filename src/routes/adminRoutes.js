@@ -7,6 +7,7 @@ var books = [
       title: 'War and Peace',
       genre: 'Historical Fiction',
       author: 'Joanita Marquesa',
+      bookId: 656,
       read: false
     },
     {
